@@ -1,0 +1,17 @@
+{
+  "name": "ReactNativeGraphqlApolloExample",
+  "displayName": "ReactNativeGraphqlApolloExample",
+  "expo": {
+    "name": "ReactNativeGraphqlApolloExample",
+    "slug": "ReactNativeGraphqlApolloExample",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
